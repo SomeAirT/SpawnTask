@@ -302,13 +302,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3f11ea6cd874ed74d8d48aa523cef4a1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _enemyPrefab: {fileID: 5040951108553709946, guid: cb45a828571cb394688cf47a2136dfcb, type: 3}
+  _prefab: {fileID: 5040951108553709946, guid: cb45a828571cb394688cf47a2136dfcb, type: 3}
   _spawnPointsList:
   - {fileID: 978204971}
   - {fileID: 1173813609}
   - {fileID: 441196623}
   - {fileID: 1093983358}
-  _spawnTimePause: 2
+  _delay: 2
 --- !u!1 &978204969
 GameObject:
   m_ObjectHideFlags: 0
